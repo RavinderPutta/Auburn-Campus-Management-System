@@ -1,0 +1,28 @@
+
+
+ 
+<html>
+<head>
+<title>My First chart using FusionCharts Suite XT</title>
+<script type="text/javascript" src="js/fusioncharts.js"></script>
+<script type="text/javascript" src="js/themes/fusioncharts.theme.fint.js"></script>
+<script type="text/javascript">
+FusionCharts.ready(function () {
+    var myChart = new FusionCharts({
+      "type": "column2d",
+      "renderAt": "chartContainer",
+      "width": "1000",
+      "height": "500",
+      "dataFormat": "xml",
+      "dataSource": "<chart caption='Progress Analysis' subcaption='Assignment2' xaxisname='Student' yaxisname='Points(in %)'  yNumberSuffix='%' placevaluesinside='0' rotatevalues='0' valuefontcolor='#000000' decimals='2' forcedecimals='1' theme='fint'><set label='Akshara' value='92' /><set label='Anjali' value='61' /><set label='Ravinder' value='92' /><set label='Sonali' value='95' /><set label='Peter' value='41' /><set label='Micheal' value='88' /><set label='Walker' value='62' /><set label='Tylor' value='71' /><set label='William' value='61' /><set label='Bruce' value='49' /><set label='Chris' value='90' /><set label='Derek' value='73' /></chart>"
+    });
+
+  myChart.render();
+});
+</script>
+</head>
+<body>
+  <div id="chartContainer">FusionCharts XT will load here!</div>
+</body>
+</html>
+

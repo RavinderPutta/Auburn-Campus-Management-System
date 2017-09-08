@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Styles/layout.css"?>
+<contacts>
+
+	<contact>
+		<firstLine>AKA</firstLine>
+		<secondLine>Computer Science</secondLine>
+	</contact>
+
+	<contact>
+		<firstLine>AS</firstLine>
+		<secondLine>Computer Science</secondLine>
+		</contact>
+
+	<contact>
+		<firstLine>SR</firstLine>
+		<secondLine>Computer Science</secondLine>
+        <firstLine>RP</firstLine>
+        <secondLine>Computer Science</secondLine>
+		</contact>
+
+</contacts>
+
+

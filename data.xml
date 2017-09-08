@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <all>
+ <title >About Us</title>
+ <d>This project is developed by a group of four Master's students from Computer Science Department in Auburn University.</d>
+       <e> This application can be used by students and faculty members to review academic and financial status of students and faculty can use it for analysis of student progress respectively.</e>
+           <b>It is developed by: </b>
+          <g>Akshara Amuri</g>
+             <h>Anjali Singh</h> 
+             <i>Sonali Rege </i>
+             <j>Ravinder Putta</j>
+             
+ <url>http://localhost:8080/ACMS/index.jsp</url>
+ </all>

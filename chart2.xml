@@ -1,0 +1,14 @@
+<chart caption='Progress Analysis' subcaption='Assignment2' xaxisname='Student' yaxisname='Points'  placevaluesinside='0' rotatevalues='0' valuefontcolor='#000000' decimals='2' forcedecimals='1' theme='fint'>
+    <set label="Akshara" value="92" />
+    <set label="Anjali" value="61" />
+    <set label="Ravinder" value="92" />
+    <set label="Sonali" value="95" />
+    <set label="Peter" value="41" />
+    <set label="Tony" value="31" />
+    <set label="Michael" value="88" />
+    <set label="Walker" value="62" />
+    <set label="Tyler" value="71" />
+    <set label="William" value="89" />
+    <set label="Bruce" value="90" />
+    <set label="Chris" value="53" />
+</chart>

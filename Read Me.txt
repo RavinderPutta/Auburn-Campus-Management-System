@@ -1,0 +1,32 @@
+
+Description : 
+
+Home page : This is the initial page which is displayed when the applicaiton is launched. 
+It will have multiple sections such as (Homepage,Login, Registration, About Us). 
+
+Homepage: Redirects to Auburn University main page.
+
+Login : This page allows only authorized students and faculty members to login into the application. Users will be redirected to a seperate welcome page, where different functionalities are available to student and faculty.
+
+If Student is logged in then he/she can check courses registered, Fee Status, Library(books issued), Assignment, Gpa Calculation.
+
+If faculty is registered he/she can see the courses taken by him/her that semester,Assignments given, Student progress. 
+
+Register : New users can register in this page
+
+About us : This page will get the information from the xml file, using xslt transformation .
+ 
+Clicking on Auburn Campus Management System will go back to the welcome page of student or faculty member. 
+
+
+Student Credentials: 
+
+Username: ravi060791
+password: 1234
+
+
+
+Faculty Credentials:
+
+Username: dzm0049
+password: 1234
